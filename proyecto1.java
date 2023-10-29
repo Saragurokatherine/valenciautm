@@ -8,7 +8,6 @@ public class proyecto1 {
 
         int correctas = 0;
         int incorrectas = 0;
-        // elige el nivel de dificuldad
-
+        // elija el nivel de dificultad
         System.out.println("Elige el nivel de dificultad (1 para números de un dígito, 2 para números de dos dígitos, etc.):");
         int nivel = scanner.nextInt();
